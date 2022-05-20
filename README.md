@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1N8sEq1r_oVAcfIEu97hZWwLrxd8BmXmo/view?usp=sharing).
 
-- ⚡ Fun fact: **I am a full-time mother to the cutest little boy this side of the Mississippi! I also hate coffee, but will eat all the cookies you don't have locked away.**
+- ⚡ Fun fact: **I am a full-time mother to the cutest little boy this side of the Mississippi! Also, I hate coffee. But I will eat all the cookies you don't have locked away 😆**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
