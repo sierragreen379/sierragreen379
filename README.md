@@ -1,3 +1,5 @@
+![Banner with plants, laptop with code, and general information about Sierra](Banner.png)
+
 <h1 align="center">Hi 👋 I'm Sierra</h1>
 <h3 align="center">A passionate web developer from the middle of nowhere Wyoming</h3>
 
