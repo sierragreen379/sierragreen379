@@ -9,9 +9,9 @@
 
 - 📫 Reach me at **sierragreen379@gmail.com**
 
-- 👩‍💻 All of my projects are available on **sierragreen.dev**
+- 👩‍💻 All of my projects are available on **[my portfolio](https://www.sierragreen.dev/)**
 
-- 📄 Learn about my experiences from my [resume](https://drive.google.com/file/d/1N8sEq1r_oVAcfIEu97hZWwLrxd8BmXmo/view?usp=sharing).
+- 📄 Learn about my experiences from my **[resume](https://drive.google.com/file/d/1N8sEq1r_oVAcfIEu97hZWwLrxd8BmXmo/view?usp=sharing)**
 
 - ⚡ Fun fact: **I am a full-time mother to the cutest little boy this side of the Mississippi! Also, I hate coffee. But I will eat all the cookies you don't have locked away 😆**
 
