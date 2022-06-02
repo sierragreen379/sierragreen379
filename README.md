@@ -3,13 +3,15 @@
 <h1 align="center">Hi 👋 I'm Sierra</h1>
 <h3 align="center">A passionate web developer from the middle of nowhere Wyoming</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🔭 I’m currently working on building a **Palindrome Checker with JavaScript**
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **Responsive Web Design**
 
 - 📫 Reach me at **sierragreen379@gmail.com**
 
-- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1N8sEq1r_oVAcfIEu97hZWwLrxd8BmXmo/view?usp=sharing).
+- 👩‍💻 All of my projects are available on **sierragreen.dev**
+
+- 📄 Learn about my experiences from my [resume](https://drive.google.com/file/d/1N8sEq1r_oVAcfIEu97hZWwLrxd8BmXmo/view?usp=sharing).
 
 - ⚡ Fun fact: **I am a full-time mother to the cutest little boy this side of the Mississippi! Also, I hate coffee. But I will eat all the cookies you don't have locked away 😆**
 
