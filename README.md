@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋 I'm Sierra</h1>
 <h3 align="center">A passionate web developer from the middle of nowhere Wyoming</h3>
 
-- 🔭 I’m currently working on building a **Palindrome Checker with JavaScript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Responsive Web Design**
 
 - 📫 Reach me at **sierragreen379@gmail.com**
 
-- 👩‍💻 All of my projects are available on **[my portfolio](https://www.sierragreen.dev/)**
+- 👩‍💻 Samples of my work are available on **[my website](https://www.sierragreen.dev/)**
 
 - 📄 Learn about my experiences from my **[resume](https://drive.google.com/file/d/1N8sEq1r_oVAcfIEu97hZWwLrxd8BmXmo/view?usp=sharing)**
 
