@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 I'm Sierra</h1>
 <h3 align="center">A passionate web developer from the middle of nowhere Wyoming</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Backend with Node.js**
 
 - 💬 Ask me about **Responsive Web Design**
 
