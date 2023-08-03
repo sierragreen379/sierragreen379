@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend with Node.js**
 
-- 💬 Ask me about **Responsive Web Design**
+- 💬 Ask me about **Building a website!**
 
 - 📫 Reach me at **sierragreen379@gmail.com**
 
@@ -13,7 +13,7 @@
 
 - 📄 Learn about my experiences from my **[resume](https://drive.google.com/file/d/1N8sEq1r_oVAcfIEu97hZWwLrxd8BmXmo/view?usp=sharing)**
 
-- ⚡ Fun fact: **I am a full-time mother to the cutest little boy this side of the Mississippi! Also, I hate coffee. But I will eat all the cookies you don't have locked away 😆**
+- ⚡ Fun fact: **I am the mother to the cutest little boy this side of the Mississippi! Also, I highly dislike coffee. But I will eat all the cookies you don't have locked away 😆**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -30,16 +30,7 @@
 </p>
 
 <!--
-**sierragreen379/sierragreen379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
